@@ -166,7 +166,7 @@ footer nav a {
 .about-section {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .sub-section {
@@ -174,8 +174,6 @@ footer nav a {
     padding: 2%;
     margin-right: 10%;
     border-bottom: 1px dashed;
-   
-
 }
 
 hr{
