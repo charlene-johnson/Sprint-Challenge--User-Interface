@@ -162,3 +162,38 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.about-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.sub-section {
+    width: 40%;
+    padding: 2%;
+    margin-right: 10%;
+    border-bottom: 1px dashed;
+   
+
+}
+
+hr{
+    border-top: 1px dashed;
+}
+
+button {
+    background-color: white;
+    border-width: 2px;
+    border-color: black;
+    text-align: center;
+    border-radius: 12px;
+    width: 47%;
+    height: 10%;
+    
+}
+
+.work-together {
+    margin-top: 8%;
+    margin-bottom:2%;
+}
